@@ -1,0 +1,13 @@
+.far,
+.listElement {
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.done {
+  text-decoration: line-through;
+}
